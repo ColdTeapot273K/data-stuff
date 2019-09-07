@@ -1,2 +1,2 @@
 # data-stuff
-Jupyter notebooks mostly, but there are just Python scripts in Machine Learning dir
+Jupyter notebooks mostly, but in Machine Learning directory there are just Python3 scripts, so launch those via shell or smth
