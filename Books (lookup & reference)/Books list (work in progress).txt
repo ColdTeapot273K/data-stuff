@@ -1,0 +1,30 @@
+The Black Swan: The Impact of the Highly Improbable 2nd ed. by Nassim Taleb
+(always keep in mind, models vs real world)
+
+The Data Science Design Manual by Steven  S. Skiena  
+(general theory/practice/map/frontier)
+
+Python for Data Analysis 2nd ed. by Wes McKinney 
+(applied Python, basic workflow)
+
+Python Data Science Handbook by Jake VanderPlas 
+(applied Python, lookup)
+
+Introduction to Machine Learning with Python by Andreas C. Müller and Sarah Guido
+
+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow 2nd ed. by Aurélien Géron 
+(basic workflow, lookup)
+
+Fluent Python by Luciano Ramalho
+(Python best practices, lookup, relevant for heavy scripting)
+
+Theory of Probability. A Critical Introductory Treatment 2017 ed. by Bruno de Finetti
+(subjectivist stats vs frequentist)
+
+Statistical Models: Theory and Practice rev. ed. by David Freedman
+(stat models vs real world, lookup)
+
+Statistics 4th ed. by David Freedman
+
+Статистика и котики by Савельев Владимир 
+(some theory in a nutshell)
