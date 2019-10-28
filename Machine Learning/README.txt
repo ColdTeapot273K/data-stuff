@@ -9,3 +9,6 @@ Misc:
 	Now all the scripts whould be Python3
 	
 	-can uncomment different configurations in ML scripts for different results
+	
+	-'emails_by_address' folder not included into 'final_project', 
+	but it's identical to 'maildir' created in project root during a setup
